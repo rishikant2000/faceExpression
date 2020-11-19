@@ -8,4 +8,4 @@ In this build and train a convolutional neural network (CNN) in Keras to recogni
 Keras, Convolutional Neural Network, flask
 
 # Convolution Neural Network
-![alt text](https://github.com/rishikant2000/faceExpression/blob/master/projectCNN.jpg?raw=true)
+![alt text](https://github.com/rishikant2000/faceExpression/blob/master/model.png?raw=true)
