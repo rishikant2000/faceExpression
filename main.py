@@ -1,5 +1,6 @@
 from flask import Flask, render_template, Response
 from camera import VideoCamera
+import math
 
 
 app = Flask(__name__)
